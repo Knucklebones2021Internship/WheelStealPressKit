@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>Wheel Steal</title>
+  <release-date>TBD</release-date>
+  <website></website>
+
+  <!-- Link to request press copy: 
+  <press-copy-request></press-copy-request>-->
+
+  <platforms>
+    <platform>
+      <name>Wheel Steal on Itch.io</name>
+      <link>https://store.steampowered.com/app/1445240/Tempo/</link>
+    </platform>
+  </platforms>
+
+  <description>Wheal Steal is a round-based spelling game that encourages friendly competition, team-based cooperation, and something we called a pleasantly chaotic atmosphere. With so many areas to explore, so many crazy abilities to try out, and so many other kids to play with, children won’t even realize they’re building crucial language art skills.</description>
+
+  <!-- Choose between a single block:
+  <history></history> -->
+
+  <!-- Or multiple blocks: -->
+  <histories>
+    <history>
+      <header>Vertical Slice, August 6</header>
+      <text>Our vertical slice was finished with intended experience and one polished level</text>
+    </history>
+    <history>
+      <header>Prototype, March 29</header>
+      <text>Our playable prototype was finished with core functionalities</text>
+    </history>
+    <history>
+      <header>Project Launched, Jan 27</header>
+      <text></text>
+    </history>
+  </histories>
+
+  <features>
+    <feature>Realtime Multiplayer</feature>
+    <feature>Team-based Competition</feature>
+    <feature>Interactive Environment</feature>
+  </features>
+
+  <trailers>
+    <trailer>
+      <name>May 24th - Announcement Trailer</name>
+      <!-- Pick one: -->
+      <youtube>
+        tUs9Wh_Vi10
+      </youtube>
+    </trailer>
+  </trailers>
+
+  <!-- You can set your widgets here (optional): -->
+  <widgets>
+    <!--<steam>
+      Steam ID
+      e.g. 424242
+      1445240
+    </steam>-->
+    <!--<humble>
+      Humble Bundle product/id
+      e.g. mysupergame/42AAbB42dC
+    </humble>-->
+    <itch>
+      1061015
+    </itch>
+    <!--<gamejolt>
+      Game Jolt package ID
+      e.g. 4AbCd2Ef
+    </gamejolt>
+    <bandcamp>
+      Bandcamp ID
+      e.g. 4242424242
+    </bandcamp> -->
+  </widgets>
+
+  <!--<awards>
+    <award>
+      <description></description>
+      <info></info>
+    </award>
+  </awards>-->
+
+  <!--<quotes>
+    <quote>
+      <description></description>
+      <name></name>
+      <website></website>
+      <link></link>
+    </quote>
+  </quotes>-->
+
+  <!--<additionals>
+    <additional>
+      <title></title>
+      <description></description>
+      <link></link>
+    </additional>
+  </additionals>-->
+
+  <credits>
+    <credit>
+      <person>Noah Maestre</person>
+      <role>Producer, Project Manager</role>
+      <!-- Optional: -->
+      <website>https://www.artstation.com/noahmaestre</website>
+    </credit>
+    
+    <credit>
+      <person>Jingyu Zhuang (Past Contributor)</person>
+      <role>Project Manager, Lead Programmer</role>
+      <!-- Optional: -->
+      <website>https://jingyuzhuang.com/</website>
+    </credit>
+    
+    <credit>
+      <person>Millie Harris</person>
+      <role>Technical Artist</role>
+      <!-- Optional: -->
+      <website>https://www.artstation.com/millieharris</website>
+    </credit>
+    
+    <credit>
+      <person>Chyna Cobbs</person>
+      <role>Game Designer</role>
+      <!-- Optional: -->
+      <website>https://www.linkedin.com/in/chyna-cobbs-621856179/</website>
+    </credit>
+    
+    <credit>
+      <person>Camille Sanchez</person>
+      <role>Game Designer</role>
+      <!-- Optional: -->
+      <website>https://www.linkedin.com/in/camille-sanchez/</website>
+    </credit>
+    
+    <credit>
+      <person>Ayodele Afolabi</person>
+      <role>Game Designer, Artist</role>
+      <!-- Optional: -->
+      <website>https://www.artstation.com/sapel</website>
+    </credit>
+	
+	<credit>
+      <person>Brett Blandford</person>
+      <role>Project Manager, Game Designer, Artist, Video Producer</role>
+      <!-- Optional: -->
+      <website>https://blandb2.myportfolio.com/</website>
+    </credit>
+	
+	<credit>
+      <person>Yizhe Wu (Past Contributor)</person>
+      <role>Artist</role>
+      <!-- Optional: -->
+      <website>https://www.yizhewuart.com/</website>
+    </credit>
+	
+	<credit>
+      <person>Gabriel Priem</person>
+      <role>Sound Designer</role>
+      <!-- Optional: -->
+      <website>https://www.linkedin.com/in/gabriel-priem/</website>
+    </credit>
+	
+	<credit>
+      <person>Lucas Houchin-Miller (Past Contributor)</person>
+      <role>Sound Designer</role>
+      <!-- Optional: -->
+      <website>https://www.linkedin.com/in/lucas-houchin-miller-4a422b199/</website>
+    </credit>
+	
+	<credit>
+      <person>Tingyi (Harry) Tan</person>
+      <role>Game Designer, Programmer</role>
+      <!-- Optional: -->
+      <website>https://www.linkedin.com/in/tingyi-tan-3a162417a/</website>
+    </credit>
+	
+	<credit>
+      <person>Wyatt Marvil</person>
+      <role>Lead Programmer</role>
+      <!-- Optional: -->
+      <website>https://2020wmarvil.github.io/</website>
+    </credit>
+	
+	<credit>
+      <person>Emily Mcnee (Past Contributor)</person>
+      <role>Sound Designer</role>
+      <!-- Optional: -->
+      <website>https://www.linkedin.com/in/emily-mcnee-594608214/</website>
+    </credit>
+	
+	<credit>
+      <person>David Ducharme</person>
+      <role>Producer</role>
+      <!-- Optional: -->
+      <website>https://www.linkedin.com/in/david-ducharme/</website>
+    </credit>
+	
+	<credit>
+      <person>Scott Rusk</person>
+      <role>Game Designer</role>
+      <!-- Optional: -->
+      <website>https://www.linkedin.com/in/scottrusk2021/</website>
+    </credit>
+	
+	<credit>
+      <person>Haolun Zhang</person>
+      <role>Programmer</role>
+      <!-- Optional: -->
+      <website>https://www.linkedin.com/in/haolun-zhang-71b5b71b5/</website>
+    </credit>
+	
+	<credit>
+      <person>Ziwei Peng</person>
+      <role>Programmer</role>
+      <!-- Optional: -->
+      <website>https://www.linkedin.com/in/ziwei-peng-9a3a36192/</website>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Noah Maestre</name>
+      <!-- Pick one: -->
+      <mail>noah@knucklebones.us</mail>
+    </contact>
+  </contacts>
+</product>

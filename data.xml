@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<company>
+  <title>Knucklebones Interactive</title>
+  <based-in>MA, the United States</based-in>
+  <founding-date>Jan 27, 2021</founding-date>
+  <website></website>
+  <press-contact>
+    <!-- Mail address -->
+	noah@knucklebones.us
+  </press-contact>
+
+  <!-- Google analytics ID: -->
+  <analytics></analytics>
+
+  <!-- <phone></phone>-->
+  <!--<address>
+    <line>
+      Street
+    </line>
+    <line>
+      City
+    </line>
+    <line>
+      Country
+    </line>
+  </address>-->
+
+  <socials>
+    <social>
+      <name>LinkedIn</name>
+      <link>
+        <!-- URL starting with http or https -->
+        https://www.linkedin.com/company/74046630/admin/
+      </link>
+    </social>
+  </socials>
+
+  <description>Knucklebones Interactive</description>
+
+  <!-- Choose between a single block: -->
+  <!--<history></history>-->
+
+  <!-- Or multiple blocks: -->
+  <histories>
+    <history>
+      <header>Team Founded, Jan 27</header>
+      <text></text>
+    </history>
+  </histories>
+
+  <!--<trailers>
+    <trailer>
+      <name></name>
+
+      Pick one:
+      <youtube>
+        Video ID only, not the full URL
+      </youtube>
+      <vimeo>
+        Video ID only, not the full URL
+      </vimeo>
+    </trailer>
+  </trailers>-->
+
+  <!--<awards>
+    <award>
+      <description></description>
+      <info></info>
+    </award>
+  </awards>-->
+
+  <!--<quotes>
+    <quote>
+      <description></description>
+      <name></name>
+      <website></website>
+      <link></link>
+    </quote>
+  </quotes>-->
+
+  <!-- <additionals>
+    <additional>
+      <title></title>
+      <description></description>
+      <link></link>
+    </additional>
+  </additionals>-->
+
+  <credits>
+    <credit>
+      <person>Noah Maestre</person>
+      <role>Producer, Project Manager</role>
+      <!-- Optional: -->
+      <website>https://www.artstation.com/noahmaestre</website>
+    </credit>
+    
+    <credit>
+      <person>Jingyu Zhuang (Past Contributor)</person>
+      <role>Project Manager, Lead Programmer</role>
+      <!-- Optional: -->
+      <website>https://jingyuzhuang.com/</website>
+    </credit>
+    
+    <credit>
+      <person>Millie Harris</person>
+      <role>Technical Artist</role>
+      <!-- Optional: -->
+      <website>https://www.artstation.com/millieharris</website>
+    </credit>
+    
+    <credit>
+      <person>Chyna Cobbs</person>
+      <role>Game Designer</role>
+      <!-- Optional: -->
+      <website>https://www.linkedin.com/in/chyna-cobbs-621856179/</website>
+    </credit>
+    
+    <credit>
+      <person>Camille Sanchez</person>
+      <role>Game Designer</role>
+      <!-- Optional: -->
+      <website>https://www.linkedin.com/in/camille-sanchez/</website>
+    </credit>
+    
+    <credit>
+      <person>Ayodele Afolabi</person>
+      <role>Game Designer, Artist</role>
+      <!-- Optional: -->
+      <website>https://www.artstation.com/sapel</website>
+    </credit>
+	
+	<credit>
+      <person>Brett Blandford</person>
+      <role>Project Manager, Game Designer, Artist, Video Producer</role>
+      <!-- Optional: -->
+      <website>https://blandb2.myportfolio.com/</website>
+    </credit>
+	
+	<credit>
+      <person>Yizhe Wu (Past Contributor)</person>
+      <role>Artist</role>
+      <!-- Optional: -->
+      <website>https://www.yizhewuart.com/</website>
+    </credit>
+	
+	<credit>
+      <person>Gabriel Priem</person>
+      <role>Sound Designer</role>
+      <!-- Optional: -->
+      <website>https://www.linkedin.com/in/gabriel-priem/</website>
+    </credit>
+	
+	<credit>
+      <person>Lucas Houchin-Miller (Past Contributor)</person>
+      <role>Sound Designer</role>
+      <!-- Optional: -->
+      <website>https://www.linkedin.com/in/lucas-houchin-miller-4a422b199/</website>
+    </credit>
+	
+	<credit>
+      <person>Tingyi (Harry) Tan</person>
+      <role>Game Designer, Programmer</role>
+      <!-- Optional: -->
+      <website>https://www.linkedin.com/in/tingyi-tan-3a162417a/</website>
+    </credit>
+	
+	<credit>
+      <person>Wyatt Marvil</person>
+      <role>Lead Programmer</role>
+      <!-- Optional: -->
+      <website>https://2020wmarvil.github.io/</website>
+    </credit>
+	
+	<credit>
+      <person>Emily Mcnee (Past Contributor)</person>
+      <role>Sound Designer</role>
+      <!-- Optional: -->
+      <website>https://www.linkedin.com/in/emily-mcnee-594608214/</website>
+    </credit>
+	
+	<credit>
+      <person>David Ducharme</person>
+      <role>Producer</role>
+      <!-- Optional: -->
+      <website>https://www.linkedin.com/in/david-ducharme/</website>
+    </credit>
+	
+	<credit>
+      <person>Scott Rusk</person>
+      <role>Game Designer</role>
+      <!-- Optional: -->
+      <website>https://www.linkedin.com/in/scottrusk2021/</website>
+    </credit>
+	
+	<credit>
+      <person>Haolun Zhang</person>
+      <role>Programmer</role>
+      <!-- Optional: -->
+      <website>https://www.linkedin.com/in/haolun-zhang-71b5b71b5/</website>
+    </credit>
+	
+	<credit>
+      <person>Ziwei Peng</person>
+      <role>Programmer</role>
+      <!-- Optional: -->
+      <website>https://www.linkedin.com/in/ziwei-peng-9a3a36192/</website>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Jingyu Zhuang</name>
+      <!-- Pick one: -->
+      <mail>jingyuzhuang1999@outlook.com</mail>
+    </contact>
+  </contacts>
+</company>
